@@ -1,2 +1,3 @@
 name = ("Tristin_Teye")
-print (name)
+print ("My name's", name)
+print = input("What's ur name?")
